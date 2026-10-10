@@ -1,0 +1,4 @@
+6. Log file parser
+Parse a server log file and report: total lines, count by log level
+, errors per hour, and the 5 most frequent error messages. Write the report to summary.txt.
+Checks: parsing, datetime, aggregation.
